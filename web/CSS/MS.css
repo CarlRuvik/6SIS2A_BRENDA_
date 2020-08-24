@@ -1,0 +1,65 @@
+
+.CONTENEDOR
+{
+    flex-wrap: wrap;
+    display: flex;
+}
+.SERVICIO
+{
+    text-align: center;
+    margin: auto;
+}
+.CARD
+{   
+    margin-bottom: 50px;
+    border-radius: 10px;
+    padding: 30px;
+    width: 250px;
+    height: 450px;
+    background-color: white;
+    box-shadow: 0 12px 16px rgba(0,0,0,0.2);
+}
+.BTN1
+{
+    margin: 5px;
+    padding: 10px;
+    border-radius: 7px;
+    background-color: darkgoldenrod; 
+    color: white;
+    text-decoration: none;
+}
+.BTN1:hover{background-color: goldenrod}
+.BTN2
+{
+    margin:5px;
+    padding: 10px;
+    border-radius: 7px;
+    background-color: coral;
+    color: white;
+    text-decoration: none;
+}
+.BTN2:hover{background-color: crimson}
+
+.CARRITO
+{
+    position: fixed;
+    background-color: white;
+    bottom: 20px;
+    right: 20px;
+    width: 110px;
+    height: 100px;
+    border-radius: 100px;
+}
+
+.CONT
+{
+    position: fixed;
+    bottom: 0px;
+    right: 60px;
+    color: yellow;
+    font-size: 50px;
+    background-color: black;
+    border-radius: 50px;
+}
+
+

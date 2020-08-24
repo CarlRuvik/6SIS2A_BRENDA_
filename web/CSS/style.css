@@ -1,0 +1,121 @@
+body
+{
+    background-image: url("../Img/JD.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+    
+}
+
+.B2
+{
+    background-image: url("../Img/FONDO3.jpeg");
+    background-size: 100%;
+}
+
+.MENU
+{
+	padding: 20px;
+	background-color: black;
+	text-align: center;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #e6b800;
+        margin:40px;
+}
+
+.B
+{
+    margin: auto;
+    padding: 20px;
+    font-size: 30px;
+    text-decoration: none;
+    color: #e6b800;
+    font-family: 'Raleway', sans-serif;
+}
+.B:hover{background-color: #cc2900;}
+
+.TODO
+{
+    display:flex;
+}
+
+.RIGHT
+{
+    flex-wrap: wrap;
+    padding:10px;
+    width: 10%;
+    text-align: center;
+}
+
+.MIDDLE
+{
+    flex-wrap: wrap;
+    padding:10px;
+    width: 100%;
+    text-align: center;
+    background-color:rgba(2,0,0,0.6);
+}
+
+.LEFT
+{
+    flex-wrap: wrap;
+    padding:10px;
+    width: 10%;
+    text-align: center;
+}
+
+.FOOTER
+{
+    padding: 20px;
+    background-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #e6b800;
+    display:flex;
+}
+
+.UNO
+{
+    flex-wrap: wrap;
+    width: 30%;
+    text-align: center;
+}
+
+.DOS
+{
+    flex-wrap: wrap;
+    width: 50%;
+    text-align: center;
+    font-family: 'Cairo', sans-serif;
+}
+
+.TRES
+{
+    flex-wrap: wrap;
+    width: 30%;
+    text-align: center;
+}
+
+.LOGO
+{
+    margin-top: 20px;
+}
+
+li
+{
+    color:#d9d9d9;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Cairo', sans-serif;
+}
+
+h1
+{
+    font-family: 'Cairo', sans-serif;
+    color:white;
+    background-color: rgba(255,131,131,0.2);
+    text-align: right;
+    padding-right: 100px;
+}
+

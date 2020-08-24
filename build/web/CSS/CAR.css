@@ -1,0 +1,66 @@
+label
+{
+    font-size: 50px;
+    color: coral;
+    font-family: 'Cairo', sans-serif;
+}
+table
+{
+    background-color: white;
+    border-spacing: 0;
+    font-family: 'Cairo', sans-serif;
+}
+
+thead
+{
+    background-color: bisque;
+}
+
+td, th
+{
+    border-style: solid;
+    border-color: rgb(0,0,0,0.1);
+    box-shadow: 0 12px 16px rgba(0,0,0,0.2);
+    border-width: 0.1px;
+    padding: 10px;
+}
+
+.BTN
+{
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+.COMPRA
+{
+    margin: auto;
+    background-color: rgba(255,131,131,0.2);
+    padding: 30px;
+    font-family: 'Cairo', sans-serif;
+    
+}
+.COMPRA h3
+{
+    color: white;
+}
+.COMPRA h2
+{
+    color: coral;
+}
+input
+{
+    border-style: none;
+    text-align: center;
+    font-family: 'Cairo', sans-serif;
+    font-size: 20px;
+}
+.CARRO
+{
+   margin-left: auto;
+   text-align: center;
+}
+
